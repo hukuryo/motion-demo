@@ -1,10 +1,9 @@
-import "./App.css";
-import ExitAnimation from "./components/ExitAnimation";
+import Variants from "./components/Variants";
 
 function App() {
   return (
     <>
-      <ExitAnimation />
+      <Variants />
     </>
   );
 }
