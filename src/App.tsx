@@ -1,9 +1,9 @@
-import Variants from "./components/Variants";
+import SplitText from "./components/SplitText";
 
 function App() {
   return (
     <>
-      <Variants />
+      <SplitText />
     </>
   );
 }
