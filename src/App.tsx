@@ -1,9 +1,9 @@
-import SplitText from "./components/SplitText";
+import LayoutAnimation from "./components/LayoutAnimation";
 
 function App() {
   return (
     <>
-      <SplitText />
+      <LayoutAnimation />
     </>
   );
 }
