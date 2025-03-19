@@ -1,9 +1,9 @@
-import LayoutAnimation from "./components/LayoutAnimation";
+import TransitionOptions from "./components/TransitionOptions";
 
 function App() {
   return (
     <>
-      <LayoutAnimation />
+      <TransitionOptions />
     </>
   );
 }
